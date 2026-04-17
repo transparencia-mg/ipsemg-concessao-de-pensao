@@ -2,8 +2,7 @@ name: ipsemg-concessao-de-pensao
 owner_org: instituto-de-previdencia-dos-servidores-do-estado-de-minas-gerais-ipsemg
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -40,5 +39,5 @@ resources:
         - name: dias_uteis_concessao
           type: integer
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
-title: Ipsemg concessao de pensao
+    title: Concessão de Pensão
+title: Concessão de Pensão
