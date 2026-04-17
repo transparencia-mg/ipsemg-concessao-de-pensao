@@ -1,0 +1,78 @@
+{
+  "name": "ipsemg-concessao-de-pensao",
+  "owner_org": "instituto-de-previdencia-dos-servidores-do-estado-de-minas-gerais-ipsemg",
+  "profile": "data-package",
+  "resources": [
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "concessao_pensao",
+      "path": "data/concessao_pensao.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "seq_beneficiario",
+            "type": "integer"
+          },
+          {
+            "name": "dat_inicio_direito",
+            "type": "date"
+          },
+          {
+            "name": "des_categoria",
+            "type": "string"
+          },
+          {
+            "name": "desc_entidade",
+            "type": "string"
+          },
+          {
+            "name": "val_cargo",
+            "type": "string"
+          },
+          {
+            "name": "val_redutor_teto",
+            "type": "string"
+          },
+          {
+            "name": "nom_municipio",
+            "type": "string"
+          },
+          {
+            "name": "sgl_uf",
+            "type": "string"
+          },
+          {
+            "name": "dat_requerimento",
+            "type": "date"
+          },
+          {
+            "name": "dat_doc_completa",
+            "type": "date"
+          },
+          {
+            "name": "dat_deferimento",
+            "type": "date"
+          },
+          {
+            "name": "mes_deferimento",
+            "type": "string"
+          },
+          {
+            "name": "dias_uteis_concessao",
+            "type": "integer"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    }
+  ],
+  "title": "Ipsemg concessao de pensao"
+}
