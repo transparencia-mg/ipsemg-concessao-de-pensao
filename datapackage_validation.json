@@ -1,11 +1,10 @@
 {
   "version": "4.16.6",
-  "time": 0.124,
+  "time": 0.138,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -72,7 +71,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Concessão de Pensão",
         "stats": {
           "hash": "18c70cade936a0c11d50490f0faf2020",
           "bytes": 252400,
@@ -80,7 +79,7 @@
           "rows": 1856
         }
       },
-      "time": 0.113,
+      "time": 0.125,
       "scope": [
         "hash-count-error",
         "byte-count-error",
