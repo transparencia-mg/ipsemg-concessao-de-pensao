@@ -2,8 +2,7 @@ name: concessao-de-pensao
 owner_org: instituto-de-previdencia-dos-servidores-do-estado-de-minas-gerais-ipsemg
 profile: data-package
 resources:
-  - description: Relação de pensões deferidas e o tempo de concessão realizadas pelo IPSEMG.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -63,4 +62,4 @@ resources:
           description: Dias úteis para concessão considerando quando a documentação completa
     scheme: file
     title: Concessão de Pensão
-title: Concessão de Pensão
+title: Concessão de Pensão - IPSEMG
