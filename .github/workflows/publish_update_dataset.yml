@@ -215,5 +215,4 @@ jobs:
       - name: Commit updated datapackage.json with resource IDs
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Atualiza datapackage.json com IDs dos recursos CKANeps.string.outputs.uppercase)] }}
-        run: dpckan --datastore --datapackage dataset/datapackage.json --ckan-host "$CKAN_HOST" --ckan-key "$CKAN_KEY" dataset update
+          commit_message: Atualiza datapackage.json com IDs dos recursos CKAN
