@@ -5,6 +5,7 @@ A pensão por morte é um benefício mensal e continuado concedido pelo Institut
 A base de dados é extraída do Relatório de Previdência e é atualizada bimestralmente, até o 10º dia útil do mês de referência.
 
 
+
 ## Como participar
 
 Fique a vontade para utilizar os demais canais oficiais de atendimento do Poder Executivo Estadual:
