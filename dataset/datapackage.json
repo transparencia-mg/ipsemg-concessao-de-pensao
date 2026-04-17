@@ -4,7 +4,6 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -71,8 +70,8 @@
         ]
       },
       "scheme": "file",
-      "title": "Insira um título humanamente legível para este recurso."
+      "title": "Concessão de Pensão"
     }
   ],
-  "title": "Ipsemg concessao de pensao"
+  "title": "Concessão de Pensão"
 }
